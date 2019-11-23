@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1574488037 source:c:\users\jophi\documents\c++ progms\hospitalmanagement\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+
+1574349451 source:c:\users\jophi\documents\c++ progms\hospitalmanagement\demo.cpp
+	<fstream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+
+1574260678 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1574260678 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1574260678 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1574260678 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1574260678 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1574260678 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1574260677 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
